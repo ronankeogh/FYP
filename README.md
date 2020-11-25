@@ -1,2 +1,2 @@
 # FYP
-mY FINAL YEAR PROJECT
+My final year project
